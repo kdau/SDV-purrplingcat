@@ -9,6 +9,7 @@ using NpcAdventure.HUD;
 using NpcAdventure.Compatibility;
 using NpcAdventure.Story;
 using NpcAdventure.Story.Scenario;
+using StardewValley;
 
 namespace NpcAdventure
 {
