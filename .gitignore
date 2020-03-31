@@ -341,3 +341,4 @@ healthchecksdb
 
 # JSON localization report file
 /report.json
+/unofficial/locale
